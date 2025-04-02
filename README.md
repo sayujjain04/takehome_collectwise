@@ -1,6 +1,6 @@
 # Debt Collector
 
-Debt Collector is a debt payment negotiation chatbot designed to simplify installment plan management. The core functionality is rock-solid—handling variable payment terms such as monthly, weekly, or biweekly. While the UI/UX is kept minimalistic, the focus is on delivering accurate payment term calculations and seamless integration with the payment system.
+Debt Collector is a debt payment negotiation chatbot designed to simplify installment plan management. The core functionality is handles variable payment terms such as monthly, weekly, or biweekly. While the UI/UX is kept minimalistic, the focus is on delivering accurate payment term calculations and integrations with the payment system.
 
 ## Key Features
 
